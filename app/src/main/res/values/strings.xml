@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Autocomplete</string>
+    <string name="escriba_un_valor">Escriba un valor</string>
 </resources>
